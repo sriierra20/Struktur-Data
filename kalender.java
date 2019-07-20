@@ -7,7 +7,7 @@ package kalender;
 
 /**
  *
- * @author ar
+ * @author Sri Erra
  */
 
 import java.util.Scanner;
